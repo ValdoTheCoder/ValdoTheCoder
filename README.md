@@ -20,7 +20,7 @@ I am a Full-Stack Developer with shipping robust, scalable web applications. Whi
 ---
 
 ### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ValdoTheCoder&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ValdoTheCoder&theme=dark)
 
 ---
 
