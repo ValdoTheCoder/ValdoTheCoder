@@ -21,10 +21,3 @@ I am a Full-Stack Developer with shipping robust, scalable web applications. Whi
 
 ### 📊 My GitHub Stats
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ValdoTheCoder&theme=dark)
-
----
-
-### 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-site.com) | [Email](mailto:your-email@example.com)
-
-*"Turning complex problems into simple, elegant code."*
