@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Valdo 👋
 
 ### **Software Engineer | React • Java • React Native**
 
-I am a Full-Stack Developer with **4 years of professional experience** shipping robust, scalable web applications. While my foundation is built on the **Java** ecosystem and **React**, I am currently expanding my horizons into the mobile world.
+I am a Full-Stack Developer with shipping robust, scalable web applications. While my foundation is built on the **Java** ecosystem and **React**, I am currently expanding my horizons into the mobile world.
 
 ---
 
@@ -13,7 +13,7 @@ I am a Full-Stack Developer with **4 years of professional experience** shipping
 
 ### 🛠️ Tech Stack
 * **Backend:** Java, Spring Boot, Microservices
-* **Frontend:** React, Redux, Next.js, Tailwind CSS
+* **Frontend:** React (Hooks, Context API), JavaScript (ES6+)
 * **Mobile:** React Native (Current Focus 💡)
 * **Tools:** Git, Docker, CI/CD Pipelines
 
