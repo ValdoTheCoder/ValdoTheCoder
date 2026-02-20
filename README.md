@@ -1,4 +1,4 @@
-# Hi there, I'm Valdo 👋
+# Hi there, I'm Valdo
 
 ### **Software Engineer | React • Java • React Native**
 
@@ -6,12 +6,12 @@ I am a Full-Stack Developer with shipping robust, scalable web applications. Whi
 
 ---
 
-### 🚀 What I’m Up To
-* 🔭 **Professional:** Scaling enterprise applications using Java and React.
-* 📱 **Learning:** Currently building cross-platform mobile experiences with **React Native**.
-* 🏗️ **Philosophy:** I believe in clean architecture, type safety, and code that is as readable as it is functional.
+### What I’m Up To
+* **Professional:** Scaling enterprise applications using Java and React.
+* **Learning:** Currently building cross-platform mobile experiences with **React Native**.
+* **Philosophy:** I believe in clean architecture, type safety, and code that is as readable as it is functional.
 
-### 🛠️ Tech Stack
+### Tech Stack
 * **Backend:** Java, Spring Boot, Microservices
 * **Frontend:** React (Hooks, Context API), JavaScript (ES6+)
 * **Mobile:** React Native (Current Focus 💡)
@@ -19,5 +19,5 @@ I am a Full-Stack Developer with shipping robust, scalable web applications. Whi
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ValdoTheCoder&theme=dark)
