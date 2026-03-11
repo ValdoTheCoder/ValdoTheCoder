@@ -20,4 +20,4 @@ I am a Full-Stack Developer with shipping robust, scalable web applications. Whi
 ---
 
 ### My GitHub Stats
-![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ValdoTheCoder&theme=dark)
+![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ValdoTheCoder&theme=dark&v123)
